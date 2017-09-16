@@ -58,5 +58,20 @@ pagination_dir: page
 theme: landscape
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
+
+
 deploy:
-  type:
+  type:feed:
+  type: atom
+  path: atom.xml
+  limit: false
+  hub:
+  content: true
+
+search:
+  path: search.xml
+  field: post
+  format: html
+limit: 10000
+  
+

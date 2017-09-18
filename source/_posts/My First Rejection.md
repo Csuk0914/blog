@@ -1,6 +1,6 @@
 ---
 title: My First Rejection
-category: Diary
+categories: Diary
 ---
 
 今天吴老师通知我，LibHIR "has been rejected from publication on JMLR MLOSS Track"， 因为”unable to find any evidence of a significant community of external users“。虽然结果很让人沮丧，但平心而论，reviewer的理由简直让人没脾气。

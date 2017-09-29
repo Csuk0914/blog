@@ -1,8 +1,6 @@
 ---
 title: OpenCL版Caffe：高速跨平台机器学习框架
 date: 2017-09-21
-categories: Translation
-tag: [Framework, Paper Reading]
 ---
 
 去年，AMD Research将Caffe从CUDA迁移到了OpenCL上。OpenCL版Caffe虽然在性能上仍与cuDNN有差距，但平台兼容性好，在性价比方面优势明显。

@@ -1,8 +1,6 @@
 ---
 title: Hello World
 date: 2017-09-12
-categories: Essay
-tag: [Research, PRNN]
 ---
 
 

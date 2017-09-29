@@ -1,5 +1,7 @@
----
 title: My First Rejection
+date: 2017-09-18
+categories: Essay
+tag: [Research, LibHIR]
 ---
 
 今天吴老师通知我，LibHIR "has been rejected from publication on JMLR MLOSS Track"， 因为”unable to find any evidence of a significant community of external users“。虽然结果很让人沮丧，但平心而论，reviewer的理由简直让人没脾气。

@@ -1,6 +1,5 @@
 ---
 title: Hello World
-date: 2017-09-12
 ---
 
 

@@ -1,13 +1,12 @@
 ---
 title: OpenCL Caffe
-date: 2017-09-21
 ---
 
 去年，AMD Research将Caffe从CUDA迁移到了OpenCL上。OpenCL版Caffe虽然在性能上仍与cuDNN有差距，但平台兼容性好，在性价比方面优势明显。
 
 ---
 
-作者[Murat Demirbas](https://www.cse.buffalo.edu/~demirbas/)，译者[代亚暄](https://tagineerdai.github.io/)。本文已获作者授权，首发于[InfoQ](http://www.infoq.com/cn/)。
+作者[Murat Demirbas](https://www.cse.buffalo.edu/~demirbas/)，译者[代亚暄](https://tagineerdai.github.io/)。本文已获作者授权，同时发布于[InfoQ](http://www.infoq.com/cn/)。
 
 点击查看英文原文：[Paper summary. OpenCL Caffe: Accelerating and enabling a cross platform machine learning framework ](http://muratbuffalo.blogspot.hk/2017/09/paper-summary-opencl-caffe-accelerating.html)
 

@@ -1,5 +1,7 @@
 ---
 title: OpenCL Caffe
+date: 2017-10-02 22:00:00
+categories: translation
 ---
 
 去年，AMD Research将Caffe从CUDA迁移到了OpenCL上。OpenCL版Caffe虽然在性能上仍与cuDNN有差距，但平台兼容性好，在性价比方面优势明显。

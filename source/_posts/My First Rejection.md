@@ -1,6 +1,6 @@
 ---
 title: My First Rejection
-date: 2017-9-18 22:00:00
+date: 2017-9-18
 categories: diary
 ---
 

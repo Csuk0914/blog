@@ -1,6 +1,6 @@
 ---
 title: OpenCL Caffe
-date: 2017-10-02 22:00:00
+date: 2017-10-02
 categories: translation
 ---
 

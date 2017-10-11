@@ -1,5 +1,5 @@
 ---
-title: 通过网络结构迁移学习提高图像识别任务的拓展性
+title: Transferable Archi
 date: 2017-10-11
 categories: translation
 ---
